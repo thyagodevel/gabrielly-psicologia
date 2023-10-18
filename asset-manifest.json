@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gabrielly-psicologia/static/css/main.4814f194.css",
+    "main.js": "/gabrielly-psicologia/static/js/main.6c18392c.js",
+    "static/media/terapia.jpg": "/gabrielly-psicologia/static/media/terapia.72e57076cb2fb546b1b8.jpg",
+    "static/media/apoio.jpg": "/gabrielly-psicologia/static/media/apoio.819918169e9dc295194e.jpg",
+    "static/media/orientacao.jpg": "/gabrielly-psicologia/static/media/orientacao.8eec4720c4e3b4bbdf51.jpg",
+    "static/media/folhas.png": "/gabrielly-psicologia/static/media/folhas.2fef59f43d620100b009.png",
+    "static/media/ajudapsic.png": "/gabrielly-psicologia/static/media/ajudapsic.54529d6fc476d1708555.png",
+    "static/media/logo-coruja.png": "/gabrielly-psicologia/static/media/logo-coruja.8552eb8182e0e514f121.png",
+    "static/media/gabrielly.png": "/gabrielly-psicologia/static/media/gabrielly.f33bc47fb8ff4681162d.png",
+    "index.html": "/gabrielly-psicologia/index.html",
+    "main.4814f194.css.map": "/gabrielly-psicologia/static/css/main.4814f194.css.map",
+    "main.6c18392c.js.map": "/gabrielly-psicologia/static/js/main.6c18392c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4814f194.css",
+    "static/js/main.6c18392c.js"
+  ]
+}
