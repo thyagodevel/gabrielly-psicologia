@@ -15,7 +15,7 @@ const ContainerApresentacao = () => {
         <img src={ajuda} alt="Ilustração" className="max-w-full h-80 mt-4 md:mt-0 ml-20" />
         <div className="text-center md:text-left">
           <h1 className="text-fundoGeral font-merriRegular font-semibold text-2xl sm:text-1xl lg:text-2xl mb-4">
-            Talvez você está abatido ou ansioso, talvez você não tem certeza sobre o futuro de um relacionamento, ou simplesmente sente que não está vivendo a vida que gostaria de viver. Seja qual for sua necessidade estou aqui para lhe compreender. A terapia é um processo de crescimento e autodescoberta e nas minhas sessões, trabalhamos com o método psicanalítico, que busca compreender o inconsciente através dos relatos tragos pelo paciente, afinal, você é a peça principal para desvendar o seu íntimo.
+            Talvez você esteja abatido ou ansioso, talvez você não tenha certeza sobre o futuro de um relacionamento, ou simplesmente sente que não está vivendo a vida que gostaria de viver. Seja qual for sua necessidade, eu estou aqui para lhe compreender. A terapia é um processo de crescimento e autodescoberta e nas minhas sessões, trabalhamos com o método psicanalítico, que busca compreender o inconsciente através dos relatos trazidos pelo paciente, afinal, você é a peça principal para desvendar o seu íntimo.
           </h1>
         </div>
       </div>

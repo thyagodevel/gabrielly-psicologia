@@ -45,6 +45,11 @@ const Servicos = () => {
               <p className=" text-fundoGeral font-sans font-semibold text-center">Visando oferecer suporte e orientação para pais, mães e responsáveis compreenderem assuntos como educação, comportamento e desenvolvimento dos filhos.</p>
             </div>
           </div>
+          <div className="flex flex-col items-center p-4 bg-white rounded-lg shadow-lg mt-6">
+              <h2 className="text-fundoGeral text-center font-merriLighItalic text-xl font-bold">
+                Atendimento remoto e presencial em Brasília - DF
+              </h2>
+            </div>
           <div className='pt-24' />
           <BotaoWpp />
         </div>
